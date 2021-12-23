@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "animated-todo",
+    "name": "Animated To-do App",
     "slug": "animated-todo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     },
     "android": {
       "adaptiveIcon": {
